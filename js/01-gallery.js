@@ -52,5 +52,3 @@ function openModal(src) {
     }
   }
 }
-
-console.log(galleryItems);
